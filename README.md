@@ -13,14 +13,22 @@ CARA MENDOWNLOAD GIT
 Hal pertama yang perlu kita lakukan jika ingin menggunakan aplikasi git tentu saja yaitu mendownloadnnya. Bagaimana caranya? Pertama kalian bukalah situs resmi dari git itu sendiri yaitu git-scm.com.
 
 Setelah kalian mendapat tampilan seperti dibawah ini kalian bisa langsung saja mendownloadnya dengan cara memilih terlebih dahulu yang sesuai dengan komputer atau laptop kalian apakah itu 32bit atau 64bit. Setelahnya kalian bisa langsung menekannya dan akan terdownload otomatis.
+![gitweb](https://user-images.githubusercontent.com/123892320/215346530-23bd9c7b-3ff5-44de-8f8f-b3a4ba7db106.JPG)
+
 
 Setelah installasi terbuka, kalian bisa langsung membuka software gitbash pada menu windows kalian dan melakukan pengecekan versi dari git kalian dengan mengetikan syntax: git --version
+![Gitversi](https://user-images.githubusercontent.com/123892320/215346764-bb470043-bc12-4869-b4c3-c7b2503d86b5.JPG)
+
 
 jika sudah mendapat tampilan seperti gambar dibawah ini, itu mengartikan bahwa git kalian telah berhasil terinstall.
 
 Selanjutnya yang perlu kita lakukan adalah mengkonfigurasikan username & email kita pada git dengan mengetikan syntax: 'git config --global user.name "Nama Anda"' 'git config --global user.email "Email Anda"'. 
+![gituseremail](https://user-images.githubusercontent.com/123892320/215346807-f7eabdc9-d812-4686-a217-5f4cdf73ced2.JPG)
+
 
 Jika sudah, lakukanlah pengecekan untuk mengetahui apakah kita sudah terdaftar atau belum dengan mengetikan syntax: 'git config --global user.name' 'git config --global user.email'. 
+![gituseremailok](https://user-images.githubusercontent.com/123892320/215346823-8e97e72f-d836-41ba-863e-b6648a228152.JPG)
+
 
 LANGKAH AWAL MENGGUNAKAN GITHUB
 
