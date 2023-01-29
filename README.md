@@ -23,7 +23,9 @@ Selanjutnya yang perlu kita lakukan adalah mengkonfigurasikan username & email k
 Jika sudah, lakukanlah pengecekan untuk mengetahui apakah kita sudah terdaftar atau belum dengan mengetikan syntax: 'git config --global user.name' 'git config --global user.email'. 
 
 LANGKAH AWAL MENGGUNAKAN GITHUB
+
 LOGIN AKUN GITHUB
+
 Bukalah Github pada situs resminya yaitu github.com. Setelah itu pilih menu Sign Up yang terletak pada pojok kanan atas jika memang belum mempunyai akun.
 
 Kemudian, isilah data & email kalian dengan benar.
@@ -35,7 +37,9 @@ Silahkan mengecek email yang sama dengan yang digunakan pada saat mendaftar tadi
 Setelah terdapat notif dari Github pada email kalian, segera lakukanlah verifikasi sebelum terjadi error (kadaluarsa).
 
 SELANJUTNYA ADALAH LANGKAH MEMBUAT REPOSITORY..
+
 CARA MEMBUAT REPOSITORY PADA GITHUB
+
 Bukalah profile kalian, kemudia pilih dibagian start a project, atau bisa juga dengan menekan lambang (+) pada bagian pojok kanan atas.
 Setelahnya kamu dapat pergi pada tulisan 'New Repository'
 
@@ -52,7 +56,9 @@ Jika ingin menulis sesuatu atau mengedit sebuah teks yang sudah ada sebelumnya p
 Tekan pada kolom 'Commit Changes' jika kalian ingin menyimpan hasil kerja kalian ataupun setelah kalian melakukan perubahan pada lembar kerja kalian.
 
 SETELAH PEMBUATAN AKUN DAN REPOSITORY TELAH SELESAI SELANJUTNYA KITA AKAN ME-REMOTE REPOSITORY PADA GITBASH LOKAL.
+
 CARA ME-REMOTE REPOSITORY PADA GITBASH
+
 Langkah pertama, kita harus menyalin terlebih dahulu link URL git kita yang ada pada Github, dengan cara tekan tombol 'Code' lalu kalian pilih pada kolom 'https://' dan setelahnya kalian Copy.
 
 Setelah Link URL git kita sudah tercopy. Selanjutnya, silahkan buka File Explorer pada Windows kalian. Kemudian pilih folder dimana kita akan mendownload Repository dari Github ke lokal.
